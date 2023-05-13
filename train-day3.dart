@@ -1,14 +1,14 @@
 import 'dart:io';
 
 void main() {
-  //printEven();
-  //printFriends();
-  //printEmailPassword();
-  //printSum();
-  //printCheck();
-  //printMultiply();
-  //printEquivalentName();
-  //printReverse();
+  printEven();
+  printFriends();
+  printEmailPassword();
+  printSum();
+  printCheck();
+  printMultiply();
+  printEquivalentName();
+  printReverse();
   printMonth();
 }
 
